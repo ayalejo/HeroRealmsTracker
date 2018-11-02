@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hero Realms Tracker</string>
+    <string name="one_player">1 Jugador</string>
+    <string name="two_players">2 Jugadores</string>
+</resources>
